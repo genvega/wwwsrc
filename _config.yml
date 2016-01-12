@@ -27,16 +27,16 @@ disqus_shortname: "fernandomoreira"
 
 # Author settings
 author:
-  name      :
+  name      : Sachin Dole
   job       : AWS Solutions Architect
   bio       : "Genvega"
   thumb     : /images/author.jpg
   email     : nandomoreira.me@gmail.com
   url       : http://nandomoreira.me
-  github    : http://github.com/nandomoreirame
-  twitter   : http://twitter.com/nandomoreirame
+  github    : http://github.com/sdole
+  twitter   : http://twitter.com/sdoledotcom
   facebook  : http://facebook.com/fernando.dev
-  linkedin  : http://linkedin.com/in/nandomoreirame
+  linkedin  : http://www.linkedin.com/in/sdole
 
 # navbar pages
 navbar:
