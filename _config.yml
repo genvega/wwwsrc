@@ -27,9 +27,9 @@ disqus_shortname: "fernandomoreira"
 
 # Author settings
 author:
-  name      : Fernando Moreira
-  job       : Frontend Engineer
-  bio       : "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  name      :
+  job       : AWS Solutions Architect
+  bio       : "Genvega"
   thumb     : /images/author.jpg
   email     : nandomoreira.me@gmail.com
   url       : http://nandomoreira.me
