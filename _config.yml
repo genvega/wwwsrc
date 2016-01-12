@@ -14,15 +14,15 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: end2end
+title: Genvega, Inc. AWS Architect
 description: "A free Jekyll theme for download"
 keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://nandomoreira.me
+url: http://www.genvega.com
 baseurl: ""
 # baseurl: ""
 
 # google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
+repo: http://github.com/genvega/genvega.github.io
 disqus_shortname: "fernandomoreira"
 
 # Author settings
@@ -31,8 +31,8 @@ author:
   job       : AWS Solutions Architect
   bio       : "Genvega"
   thumb     : /images/LogoColorNoText.png
-  email     : nandomoreira.me@gmail.com
-  url       : http://nandomoreira.me
+  email     : sdole@genvega.com
+  url       : http://www.genvega.com
   github    : http://github.com/sdole
   twitter   : http://twitter.com/sdoledotcom
   facebook  : http://facebook.com/fernando.dev
