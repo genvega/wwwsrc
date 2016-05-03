@@ -1,2 +1,4 @@
+*.iml
 _site
 .sass-cache
+Gemfile.lock
