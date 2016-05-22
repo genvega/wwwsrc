@@ -7,7 +7,7 @@ keywords: "DevOps, DevOps Automation, Tomcat, AWS, AWS Solutions Architect, Clou
 comments: true
 category: announcements
 ---
-<p><img src="/images/its_automatic-reduced.jpg" alt="AWS automated development operations"/></p>
+<p><img src="/images/ccc_dias.png" alt="AWS automated development operations" /></p>
 <p>I am <a href="http://chicagocoderconference.com/cccsession/session-5-devops-automation-for-aws/">speaking</a> again! This time I am going to be at the <a href="http://chicagocoderconference.com/">Chicago Coder Conference</a> on Monday, June 6 at 3:45. It is very exciting for me to have the chance to talk and learn from everyone else's experiences. I will be focussing specifically on <a href="https://aws.amazon.com/">AWS</a> and tools it provides for successful DevOps automation. </p>
 <p>Topics included:
 <ol>
